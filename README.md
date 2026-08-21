@@ -37,7 +37,7 @@ role: Full Stack Developer
 focus:
   - Frontend Development
   - Backend Development
-  - RESTful API Development
+  - Fast API Development
   - Database Management
 
 currently_learning:

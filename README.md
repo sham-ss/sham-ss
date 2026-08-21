@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Sham Sundar 👋
 
-<!--
-**sham-ss/sham-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate interested in building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+**Backend**
+
+* Python
+* FastAPI
+
+**Database**
+
+* SQL
+* MySQL
+* Oracle
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+### 🚀 Projects
+
+#### Student Management System
+
+A full-stack web application for managing student records.
+
+**Technologies:** Python, FastAPI, MySQL, React, JavaScript, HTML, CSS
+
+* RESTful APIs using FastAPI
+* CRUD operations
+* MySQL database
+* React frontend
+* Frontend-backend integration
+
+#### Accident Detection and Alert System Using AI
+
+An AI-based system for detecting road accidents from video streams and images.
+
+**Technologies:** Python, YOLOv11, OpenCV, Deep Learning
+
+* Accident detection using YOLOv11
+* Video frame processing using OpenCV
+* Confidence thresholding and NMS
+* Automated alert mechanism
+* Custom annotated dataset
+
+### 🎯 Career Goal
+
+Seeking opportunities as a Full Stack Developer where I can apply my skills, solve real-world problems, and continue improving as a software developer.
+
+### 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/sham-sundar-g-53b044330
+* GitHub: https://github.com/sham-ss
+

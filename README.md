@@ -1,67 +1,49 @@
-# Hi, I'm Sham Sundar 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHAM%20SUNDAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18"/>
 
-## Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+responsive+web+applications;Developing+full-stack+projects;Learning+new+technologies;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
-I'm a Computer Science Engineering graduate interested in building responsive and user-friendly web applications.
+<br/><br/>
 
-### 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/EDUCATION-B.E.%20Computer%20Science-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
 
-**Frontend**
+<br/><br/>
 
-* HTML
-* CSS
-* JavaScript
-* React
+<a href="https://linkedin.com/in/sham-sundar-g-53b044330">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Backend**
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* Python
-* FastAPI
+<a href="https://github.com/sham-ss">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Database**
+</div>
 
-* SQL
-* MySQL
-* Oracle
+---
 
-**Tools**
+## 🧑‍💻 About Me
 
-* Git
-* GitHub
-* VS Code
+```yaml
+name: Sham Sundar
+education: B.E. Computer Science Engineering
+role: Full Stack Developer
 
-### 🚀 Projects
+focus:
+  - Frontend Development
+  - Backend Development
+  - RESTful API Development
+  - Database Management
 
-#### Student Management System
+currently_learning:
+  - React
+  - Full Stack Development
+  - Advanced Web Development
 
-A full-stack web application for managing student records.
-
-**Technologies:** Python, FastAPI, MySQL, React, JavaScript, HTML, CSS
-
-* RESTful APIs using FastAPI
-* CRUD operations
-* MySQL database
-* React frontend
-* Frontend-backend integration
-
-#### Accident Detection and Alert System Using AI
-
-An AI-based system for detecting road accidents from video streams and images.
-
-**Technologies:** Python, YOLOv11, OpenCV, Deep Learning
-
-* Accident detection using YOLOv11
-* Video frame processing using OpenCV
-* Confidence thresholding and NMS
-* Automated alert mechanism
-* Custom annotated dataset
-
-### 🎯 Career Goal
-
-Seeking opportunities as a Full Stack Developer where I can apply my skills, solve real-world problems, and continue improving as a software developer.
-
-### 📫 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/sham-sundar-g-53b044330
-* GitHub: https://github.com/sham-ss
-
+mindset:
+  Learn → Build → Share → Improve
